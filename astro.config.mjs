@@ -16,6 +16,8 @@ export default defineConfig({
     },
   },
   output: "static",
+ site: 'https://luca3317.dev', 
+  base: '/Test',
   build: {
     inlineStylesheets: "auto",
   },
